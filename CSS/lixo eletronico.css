@@ -1,0 +1,56 @@
+.nome input{
+    
+    border: 1px solid rgb(0, 8, 255);
+    text-align: center;
+
+}
+
+.cadastro{
+    
+    text-align: center;
+}
+
+.senha input{
+   
+    border: 1px solid rgb(0, 59, 238);
+}
+
+hr{
+    border-color: rgb(0, 0, 0);
+}
+
+.header{
+    
+    text-align: center;
+ 
+   
+}
+
+.section1 {
+   
+    text-align: left ;
+
+}
+
+.section2{
+   
+    text-align: center;
+}
+
+body{
+   
+    background-color: chartreuse;
+    
+}
+
+.h5{
+    text-align: center;
+}
+
+.imagem{
+    text-align: center;
+}
+ .titulo{
+    text-align: center;
+    background-color: rgb(161, 216, 72);
+ }
